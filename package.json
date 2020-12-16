@@ -1,0 +1,20 @@
+{
+  "name": "KJRI_API_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityariya/KJRI_API_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityariya/KJRI_API_/issues"
+  },
+  "homepage": "https://github.com/adityariya/KJRI_API_#readme"
+}
