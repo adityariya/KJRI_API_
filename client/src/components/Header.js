@@ -6,11 +6,12 @@ const Header = () => {
         <>
          <Navbar bg="dark" expand="lg">
          <Container>
-            <Navbar.Brand href="#home">KJRI API</Navbar.Brand>
+            <Navbar.Brand href="#home">KJRI Surat</Navbar.Brand>
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ml-auto">
                     <Nav.Link href="#home">Home</Nav.Link>
                     <Nav.Link href="#link">LogIn</Nav.Link>
+                    <Nav.Link href="#link">Klarifikasi Arsip</Nav.Link>
                 </Nav>
             </Navbar.Collapse> 
             </Container>
